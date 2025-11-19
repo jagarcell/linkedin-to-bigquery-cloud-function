@@ -1,0 +1,10 @@
+.gcloudignore
+*.git
+*.bat
+.gitignore
+roles.py
+main_local.py
+env.py
+*.pyc
+deploy.py
+deploy-secrets.py
