@@ -27,6 +27,8 @@ roles.py (Will list the roles associated to the ACCESS_TOKEN_SECRET)
 
 deploy.py (Use this to deply the function when you make updates to the code)
 
+main_local.py (Use this script to pull the metrics and ingest them to BigQuery from your local)
+
 # Links of interest
 Linkedin API documentation:
 
