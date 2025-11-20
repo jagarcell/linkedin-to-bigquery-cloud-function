@@ -22,6 +22,11 @@ Create a Linkedin App or use an existing one at:
 
 https://www.linkedin.com/developers/apps
 
+# Useful local executable Python scripts
+roles.py (Will list the roles associated to the ACCESS_TOKEN_SECRET)
+
+deploy.py (Use this to deply the function when you make updates to the code)
+
 # Links of interest
 Linkedin API documentation:
 
